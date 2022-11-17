@@ -1,0 +1,29 @@
+Name Of AI: "musa", "trisha", "alpha"
+
+Rules Of Coding (Read Before Start This Coding):
+  Use "small letter and Underscore (_)" in Variable, Function, Class, etc. Ex: my_name
+  Use "Comment" for another developer can understand code easily
+  Use "single Quotation Mark (')" of String
+  Use Assistant "command" are also be "small letter".
+
+Command Of Program:
+  Section Of Main:
+    "hello" Mode About Greating of Assistant and Mine
+    "talking" Mode About Assistant and Mine
+    "app" Mode About Syatem Installed App Opening
+    "update" Mode About update info. Ex: Time, Weather, Tasks, etc.
+    "browsing" Mode About Google, YouTube search and wikipedia summary and open any website
+
+Which Module Use For Why?:
+  Installed Module:
+    "speech_recognition as sr" use for speech recognition
+    "pyttsx3" use for text to speech converting
+    "wikipedia" use for summary about topic
+
+  Built-in Module:
+    "datetime" use for wish me Function
+
+
+
+
+
